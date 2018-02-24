@@ -1,3 +1,3 @@
 # WordPress Design Theme
 
-Wordpress theme 1
+Wordpress design theme for photography and artists
