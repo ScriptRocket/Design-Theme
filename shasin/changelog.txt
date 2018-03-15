@@ -1,0 +1,81 @@
+== Changelog ==
+
+= 1.1
+* 3/4/2018
+* Updated: Opacity of banner adjusted
+* Updated: Example widget for footer column 1 changed
+* Updated: style-rtl.css
+
+= 1.0.7
+* 2/21/2018
+* Updated: Screenshot
+* Updated: Remove commented code from entry-featured-category.php
+* Updated: Mobile menu (from TinyNav to normal hamburger menu)
+* Fixed: Alignment of header widgets fixed
+* Fixed: excerpt_length, excerpt_more filter to be applied on front end only
+* Fixed: Removed $wp_customize->remove_control( 'header_textcolor' );
+
+= 1.0.6
+* 2/18/2018
+* Updated: Screenshot
+
+= 1.0.5
+* 2/18/2018
+* Fixed: Responsive images in post/pages content
+* Fixed: Comments formatting fixed
+* Updated: Screenshot
+* Updated: Changed default banner type to Posts slider
+* Added: Example content for header and footer sidebars
+
+= 1.0.4
+* 2/4/2018
+* Fixed: footer.php, removed "kale" text domain
+* Fixed: customizer.php, lines 151-178 have been edited and made translatable
+* Fixed: template-functions.php - line 189, get_comment_date fixed.
+* Updated: image licenses in readme.txt
+* Updated: removed recommendation for Contact Form 7 and WP Instagram Widget plugins.
+* Updated: screenshot.png
+
+= 1.0.3
+* 1/28/2018
+* Fixed: elara_get_entry_first_category() was not working as expected
+* Fixed: Toggle front page sections
+* Fixed: Slider arrows alignment on small screens
+* Fixed: Posts slider date format, content on small screens
+* Added: Bootstrap divider option for menus
+* Added: Credits to footer
+* Updated: Slider to use fade effect
+* Updated: Styling changes
+* Updated: Sample images
+* Updated: Lang file
+* Updated: Screenshot
+
+
+= 1.0.2
+* 12/27/2017
+* Cleaned up sample images
+* Removed Jetpack integration
+* Removed custom CSS option from Customizer
+* Fix: Blue outline on focus (video posts)
+* Fix: Active state of slider / highlight post buttons
+* Fix: Banner and highlight post responsive behavior changed
+* Fix: Dropdown menus (main nav) styling fixes
+* Updated: style-rtl.css
+
+= 1.0.1
+* 11/26/2017
+* New: Added sidebar on/off option for blog feed (category, blog feed/front page)
+* New: Added sidebar position option for blog feed/front page
+* New: Added sidebar position option for posts
+* New: Added styling for about widget
+* Fix: Updated default header size to 1470 x 680
+* Fix: Updated all image sizes to be twice the original dimensions
+* Fix: On category pages sidebar was always on if blog feed/front page sidebar was on (fix in elara_set_main_class() and elara_show_sidebar())
+* Fix: Removed date format from elara_entry_date()
+* Change: Reduced excerpt length to 40
+* Change: In front page featured categories, removed "read more" link
+* Change: Moved sidebar widgets to the top of widgets/widgets.php 
+
+= 1.0 =
+* Initial release
+

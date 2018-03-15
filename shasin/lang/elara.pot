@@ -1,0 +1,473 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-01-27 23:51-0600\n"
+"PO-Revision-Date: 2016-06-18 05:56-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: inc\n"
+
+#: comments.php:13
+msgid "Name"
+msgstr ""
+
+#: comments.php:15
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:17
+msgid "Website"
+msgstr ""
+
+#: comments.php:20
+msgid "Comment"
+msgstr ""
+
+#: comments.php:28
+msgid "Share your thoughts"
+msgstr ""
+
+#: comments.php:29
+msgid "Submit"
+msgstr ""
+
+#: comments.php:75
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: customize/customizer.php:24
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize/customizer.php:30
+msgid "General Settings"
+msgstr ""
+
+#: customize/customizer.php:37
+msgid "Front Page"
+msgstr ""
+
+#: customize/customizer.php:40
+msgid "Banner / Slider"
+msgstr ""
+
+#: customize/customizer.php:45
+msgid "Featured Categories"
+msgstr ""
+
+#: customize/customizer.php:50
+msgid "Large / Highlight Post"
+msgstr ""
+
+#: customize/customizer.php:57
+msgid "Blog Feed"
+msgstr ""
+
+#: customize/customizer.php:63
+msgid "Posts"
+msgstr ""
+
+#: customize/customizer.php:69
+msgid "Pages"
+msgstr ""
+
+#: customize/customizer.php:149
+msgid "Elara"
+msgstr ""
+
+#: customize/customizer.php:150
+msgid ""
+"\n"
+"\t\t<h1>Elara Pro</h1>\n"
+"\t\t<p><a class=\"button\" href=\"https://www.lyrathemes.com/elara-pro/\" "
+"target=\"_blank\">Upgrade to Elara Pro</a></p>\n"
+"\t\t<p>Upgrade for the many awesome features and expert support included "
+"with the pro version of this theme. View the <a href=\"http://www.lyrathemes."
+"com/preview/?theme=elara-pro\" target=\"_blank\">Elara Pro Demo</a> to see "
+"the additional features and functionality available in your upgrade.</p>\n"
+"\t\t<p>Pro Features:\n"
+"\t\t<ul>\n"
+"\t\t\t<li>&raquo; Slider options: custom slider</li>\n"
+"\t\t\t<li>&raquo; Built-in Ads</li>\n"
+"\t\t\t<li>&raquo; Built-in Related Posts</li>\n"
+"\t\t\t<li>&raquo; Built-in Recipe Shortcode</li>\n"
+"\t\t\t<li>&raquo; Recipe Index page template</li>\n"
+"\t\t\t<li>&raquo; Additional home page elements</li>\n"
+"\t\t\t<li>&raquo; Built-in social media sharing</li>\n"
+"\t\t\t<li>&raquo; One on one personal support and continuous theme updates</"
+"li>\n"
+"\t\t</ul>\n"
+"\t\t</p>\n"
+"\t\t<hr />\n"
+"\t\t<h1>Current Theme: Elara</h1>\n"
+"\t\t<h3>Demo Site</h3>\n"
+"\t\t<p>Head on over to the <a  href=\"http://www.lyrathemes.com/preview/?"
+"theme=elara\" target=\"_blank\">Elara demo</a> to see what you can "
+"accomplish with this theme!</p>\n"
+"\t\t<h3>Documentation</h3>\n"
+"\t\t<p>Read how to customize the theme, set up widgets, and learn of all the "
+"possible options available to you.</p>\n"
+"\t\t<p><a class=\"button\" href=\"https://www.lyrathemes.com/documentation/"
+"elara.pdf\" target=\"_blank\">Elara Documentation</a></p>\n"
+"\t\t<h3>Sample Data</h3>\n"
+"\t\t<p>You can install the content and settings shown on our demo site by "
+"importing this sample data.</p>\n"
+"\t\t<p><a class=\"button\" href=\"https://www.lyrathemes.com/sample-data/"
+"elara-sample-data.zip\" target=\"_blank\">Elara Sample Data</a></p>\n"
+"\t\t<h3>Feedback and Support</h3>\n"
+"\t\t<p>For feedback and support, please contact us and we would be happy to "
+"assist!</p>\n"
+"\t\t<p><a class=\"button\" href=\"https://www.lyrathemes.com/support\" "
+"target=\"_blank\">Elara Support</a></p>\n"
+"\t\t"
+msgstr ""
+
+#: customize/customizer.php:191
+msgid "Copyright Text"
+msgstr ""
+
+#: customize/customizer.php:192
+msgid "Accepts HTML."
+msgstr ""
+
+#: customize/customizer.php:201
+msgid "Show Example Content?"
+msgstr ""
+
+#: customize/customizer.php:202
+msgid ""
+"Turning this off will disable all default/sample images for posts. It will "
+"also hide all default widgets in the Default Sidebar."
+msgstr ""
+
+#: customize/customizer.php:214
+msgid "Show Image Logo?"
+msgstr ""
+
+#: customize/customizer.php:215
+msgid "Choose whether to display the image logo."
+msgstr ""
+
+#: customize/customizer.php:224
+msgid "Text Logo"
+msgstr ""
+
+#: customize/customizer.php:225
+msgid ""
+"Displayed when `Show Image Logo?` is set to `Show` or if there is no logo "
+"image uploaded."
+msgstr ""
+
+#: customize/customizer.php:235
+msgid "Show Tagline?"
+msgstr ""
+
+#: customize/customizer.php:236
+msgid "Choose whether to display site tagline."
+msgstr ""
+
+#: customize/customizer.php:256
+msgid "Caption Heading"
+msgstr ""
+
+#: customize/customizer.php:265
+msgid "Caption Description"
+msgstr ""
+
+#: customize/customizer.php:274 customize/theme-defaults.php:27
+msgid "Button Label"
+msgstr ""
+
+#: customize/customizer.php:283
+msgid "Button Link"
+msgstr ""
+
+#: customize/customizer.php:296
+msgid "Frontpage Banner / Slider"
+msgstr ""
+
+#: customize/customizer.php:318
+msgid "<hr />Posts Slider"
+msgstr ""
+
+#: customize/customizer.php:319
+msgid ""
+"Select a category to show posts from in the slider. Also enter the number of "
+"posts to show from that category."
+msgstr ""
+
+#: customize/customizer.php:331
+msgid "Posts Slider - Category"
+msgstr ""
+
+#: customize/customizer.php:345
+msgid "Posts Slider - Number of Slides/Posts"
+msgstr ""
+
+#: customize/customizer.php:346
+msgid ""
+"There should be at least three posts in the chosen category for the slider "
+"to show up."
+msgstr ""
+
+#: customize/customizer.php:364 customize/customizer.php:376
+msgid "Show Featured Categories"
+msgstr ""
+
+#: customize/customizer.php:385
+msgid "Number of posts in each column"
+msgstr ""
+
+#: customize/customizer.php:395
+msgid "Column 1: Heading"
+msgstr ""
+
+#: customize/customizer.php:404
+msgid "Column 1: Select Category"
+msgstr ""
+
+#: customize/customizer.php:414
+msgid "Column 2: Heading"
+msgstr ""
+
+#: customize/customizer.php:428
+msgid "Column 2: Select Category"
+msgstr ""
+
+#: customize/customizer.php:443
+msgid "Column 3: Heading"
+msgstr ""
+
+#: customize/customizer.php:457
+msgid "Column 3: Select Category"
+msgstr ""
+
+#: customize/customizer.php:474
+msgid "Show Large / Highlight Post"
+msgstr ""
+
+#: customize/customizer.php:486
+msgid "Select Large / Highlight Post"
+msgstr ""
+
+#: customize/customizer.php:499 customize/customizer.php:626
+msgid "Show Meta?"
+msgstr ""
+
+#: customize/customizer.php:500
+msgid ""
+"Choose whether to display date, category, author, tags for posts in the blog "
+"feed. This applies to all blog feeds on all pages, including the front page."
+msgstr ""
+
+#: customize/customizer.php:509 customize/customizer.php:636
+msgid "Show Date?"
+msgstr ""
+
+#: customize/customizer.php:522 customize/customizer.php:649
+msgid "Show Category?"
+msgstr ""
+
+#: customize/customizer.php:535 customize/customizer.php:662
+msgid "Show Author?"
+msgstr ""
+
+#: customize/customizer.php:548 customize/customizer.php:675
+msgid "Show Comments?"
+msgstr ""
+
+#: customize/customizer.php:569
+msgid "Show Sidebar on Blog Feed?"
+msgstr ""
+
+#: customize/customizer.php:570
+msgid ""
+"Choose whether to display sidebars on blog feed, including the front page."
+msgstr ""
+
+#: customize/customizer.php:579
+msgid "Frontpage Sidebar Position"
+msgstr ""
+
+#: customize/customizer.php:605
+msgid "Show Sidebar on Category Archives?"
+msgstr ""
+
+#: customize/customizer.php:606
+msgid "Choose whether to display sidebar on category archives."
+msgstr ""
+
+#: customize/customizer.php:627
+msgid ""
+"Choose whether to display date, category, author, tags for posts on the post "
+"page."
+msgstr ""
+
+#: customize/customizer.php:688
+msgid "Show Tags?"
+msgstr ""
+
+#: customize/customizer.php:708 customize/customizer.php:753
+msgid "Layout"
+msgstr ""
+
+#: customize/customizer.php:709 customize/customizer.php:754
+msgid "Choose whether to display the sidebar."
+msgstr ""
+
+#: customize/customizer.php:721
+msgid "Post Sidebar Position"
+msgstr ""
+
+#: customize/customizer.php:740
+msgid "Show Featured Image?"
+msgstr ""
+
+#: customize/customizer.php:741
+msgid "Whether to show featured image at the beginning of the post."
+msgstr ""
+
+#: customize/customizer.php:766
+msgid "Show Featured Image ?"
+msgstr ""
+
+#: customize/customizer.php:767
+msgid "Whether to show featured image at the beginning of the page."
+msgstr ""
+
+#: customize/theme-defaults.php:10
+#, php-format
+msgid "Made by <a href=\"%s\">LyraThemes.com</a>"
+msgstr ""
+
+#: customize/theme-defaults.php:10
+msgid "https://www.lyrathemes.com/elara/"
+msgstr ""
+
+#: customize/theme-defaults.php:41 customize/theme-defaults.php:43
+#: customize/theme-defaults.php:45
+msgid "Featured Category"
+msgstr ""
+
+#: footer.php:31
+#, php-format
+msgid "Powered by <a href=\"%1$s\">WordPress</a>"
+msgstr ""
+
+#: footer.php:32
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr ""
+
+#: parts/entry-featured-category.php:30
+msgid "Read More"
+msgstr ""
+
+#: parts/pagination-archive.php:9
+msgid "Prev"
+msgstr ""
+
+#: parts/pagination-archive.php:10
+msgid "Next"
+msgstr ""
+
+#: single.php:71
+msgid "Tags"
+msgstr ""
+
+#: widgets/widgets.php:17
+msgid "Sidebar - Default"
+msgstr ""
+
+#: widgets/widgets.php:19
+msgid ""
+"Add widgets here to appear on all pages below all other page specific "
+"sidebar widget areas."
+msgstr ""
+
+#: widgets/widgets.php:28
+msgid "Sidebar - Default - With Background"
+msgstr ""
+
+#: widgets/widgets.php:30
+msgid ""
+"Add widgets here to appear on all pages on the top of all sidebar widget "
+"areas."
+msgstr ""
+
+#: widgets/widgets.php:39
+msgid "Sidebar - Front Page"
+msgstr ""
+
+#: widgets/widgets.php:41
+msgid ""
+"Shows up only on the front page, between Default Sidebar - With Background "
+"and Default Sidebar."
+msgstr ""
+
+#: widgets/widgets.php:50
+msgid "Header - Left"
+msgstr ""
+
+#: widgets/widgets.php:52
+msgid "Add widgets here to appear in the top left area."
+msgstr ""
+
+#: widgets/widgets.php:60
+msgid "Header - Center"
+msgstr ""
+
+#: widgets/widgets.php:62
+msgid "Add widgets here to appear in the top center area."
+msgstr ""
+
+#: widgets/widgets.php:70
+msgid "Header - Right"
+msgstr ""
+
+#: widgets/widgets.php:72
+msgid "Add widgets here to appear in the top right area."
+msgstr ""
+
+#: widgets/widgets.php:81
+msgid "Front Page - Full 1"
+msgstr ""
+
+#: widgets/widgets.php:90
+msgid "Front Page - Full 2"
+msgstr ""
+
+#: widgets/widgets.php:100
+msgid "Footer Columns - Col 1"
+msgstr ""
+
+#: widgets/widgets.php:109
+msgid "Footer Columns - Col 2"
+msgstr ""
+
+#: widgets/widgets.php:118
+msgid "Footer Columns - Col 3"
+msgstr ""
+
+#: widgets/widgets.php:127
+msgid "Footer Columns - Col 4"
+msgstr ""
+
+#: widgets/widgets.php:136
+msgid "Footer Columns - Col 5"
+msgstr ""
