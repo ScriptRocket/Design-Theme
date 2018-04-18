@@ -15,7 +15,17 @@ function learningWordPress_resources() {
 
 add_action('wp_enqueue_scripts', 'learningWordPress_resources');
 
-
+// Search in menu
+function add_last_nav_item($items, $args) {
+	if ($args->menu == 'header_menu') {
+		  $homelink = get_search_form();
+		  $items = $items;
+		  $items .= '<li>'.$homelink.'</li>';
+		  return $items;
+	}
+	return $items;
+  }
+  add_filter( 'wp_nav_menu_items', 'add_last_nav_item', 10, 2 );
 
 // Get top ancestor
 function get_top_ancestor_id() {

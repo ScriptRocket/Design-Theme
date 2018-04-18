@@ -144,6 +144,7 @@ article.post-gallery h2 a {
 .site-nav ul {
 	margin: 0;
 	padding: 0;
+	text-align: center;
 }
 
 .site-nav ul:before, .site-nav ul:after { content: ""; display: table; }
@@ -152,7 +153,9 @@ article.post-gallery h2 a {
 
 .site-nav ul li {
 	list-style: none;
-	float: left;
+	float: none;
+	position: relative;
+	display: inline-block;
 }
 
 .site-nav ul li a:link,
@@ -401,6 +404,14 @@ img {
 /* Search */
 div.hd-search {
 	float: right;
+	width: 100%;
+}
+div.hd-search:before {
+	content: '\f002';
+	position: absolute;
+	top: 0;
+	/* right: 0; */
+	margin-top: 50px;
 }
 
 div.hd-search label {
@@ -418,7 +429,13 @@ div.hd-search #searchsubmit {
 
 div.hd-search #s {
 	vertical-align: top;
-	padding: 3px 0;
+	padding: 3px 60px;
+	width: 100%;
+	background-color: #333;
+	color: #FFF;
+	border: none;
+	outline: none;
+	font-size: 20px;
 }
 
 /*Footer Callout Section */
